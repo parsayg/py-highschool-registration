@@ -48,13 +48,3 @@ No frameworks. No databases. Just Python doing the work.
   - `json`
   - `os`
 
----
-
-## ▶️ How to Run
-
-1. Make sure Python 3 is installed
-2. Clone the repository
-3. Run the program:
-
-```bash
-python main.py
